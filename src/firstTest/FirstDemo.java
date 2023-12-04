@@ -1,6 +1,10 @@
 package firstTest;
 
 public class FirstDemo {
+	
+	public void demo() {
+		System.out.println("Demo method");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
